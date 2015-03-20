@@ -1,0 +1,10 @@
+{
+  "name": "ctrl_c",
+  "version": "0.1.0",
+  "repo": "rayros/ctrl_c.c",
+  "src": [
+    "ctrl_c.c",
+    "ctrl_c.h"
+  ],
+  "dependencies": { }
+}
